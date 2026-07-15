@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0129/v1
 canonical_location: https://kanripo.org/bkk/KR2p0129/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 湖北鄂城泥廠一號吴墓木刺
   identifiers:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 散見簡牘合輯湖北鄂城泥廠一號墓木刺
   type: section
   level: 1
-hash: sha256:3688a4bcaad1d2664010ea740145d6892fd907ab86bfd0453744ffa215724bd1
+hash: sha256:5388d0381ec52bc50dd71f1eba35cbe423ed59b56c46468602dd57b02d56b85b
